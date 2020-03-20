@@ -1,0 +1,8 @@
+C:\Github\ZCore\bin\Debug\netcoreapp2.2\ZCore.deps.json
+C:\Github\ZCore\bin\Debug\netcoreapp2.2\ZCore.dll
+C:\Github\ZCore\bin\Debug\netcoreapp2.2\ZCore.pdb
+C:\Github\ZCore\obj\Debug\netcoreapp2.2\ZCore.csproj.CoreCompileInputs.cache
+C:\Github\ZCore\obj\Debug\netcoreapp2.2\ZCore.AssemblyInfoInputs.cache
+C:\Github\ZCore\obj\Debug\netcoreapp2.2\ZCore.AssemblyInfo.cs
+C:\Github\ZCore\obj\Debug\netcoreapp2.2\ZCore.dll
+C:\Github\ZCore\obj\Debug\netcoreapp2.2\ZCore.pdb
